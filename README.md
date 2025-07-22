@@ -3,13 +3,13 @@
 🚀 AI-Powered Code Reviewer
 An intelligent code review assistant that leverages artificial intelligence to automatically analyze source code, detect issues, and suggest improvements. This tool helps developers write cleaner, safer, and more efficient code — saving time and reducing bugs in the development process.
 
----
+
 
 ## ✨ Overview
 
 **AI-Powered Code Reviewer** is a developer-friendly tool that uses artificial intelligence to analyze source code and provide meaningful feedback. It mimics human code review by detecting potential bugs, style issues, security flaws, and offering improvement suggestions — all in seconds.
 
----
+
 
 ## 🧠 Features
 
@@ -20,7 +20,7 @@ An intelligent code review assistant that leverages artificial intelligence to a
 - ⚙️ **Customizable Rules**: Align reviews with your team’s coding standards.
 - 🌐 **API & CLI Support**: Easily integrate with GitHub, GitLab, or your CI/CD pipeline.
 
----
+
 
 ## 📦 Tech Stack
 
